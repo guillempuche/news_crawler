@@ -4,5 +4,7 @@ export interface NewsItem {
 	date: string
 	summary: string
 	fullText?: string // Full article content
+	| undefined // Full article content
 	imageUrl?: string // Main image from article
+	| undefined // Main image from article
 }

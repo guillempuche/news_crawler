@@ -1,0 +1,9 @@
+{
+	"id": "2mt1qe1IJOxJfKy",
+	"json": "{\"id\":\"2mt1qe1IJOxJfKy\",\"url\":\"https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=6\",\"loadedUrl\":\"https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=6\",\"uniqueKey\":\"https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=6\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"LIST\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-03T20:21:58.268Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=6",
+	"url": "https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=6"
+}

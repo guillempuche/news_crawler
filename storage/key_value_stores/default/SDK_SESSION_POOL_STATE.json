@@ -1,0 +1,2543 @@
+{
+  "usableSessionsCount": 59,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_zSeXf4KXbf",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "papob5vn2bp30gpbbls5783t3f",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:55.243Z",
+            "lastAccessed": "2025-03-03T20:21:55.243Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU4Iiwidmlld3MiOjEsInNlc3Npb24iOiJwYXBvYjV2bjJicDMwZ3BiYmxzNTc4M3QzZiJ9",
+            "expires": "2026-03-03T20:21:58.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:55.243Z",
+            "lastAccessed": "2025-03-03T20:21:55.243Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:53.811Z",
+      "createdAt": "2025-03-03T20:21:53.811Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Druw8MvMWU",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "tnbngtl7bgjo0a2ekvk3hq57c6",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:55.610Z",
+            "lastAccessed": "2025-03-03T20:21:55.610Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiJ0bmJuZ3RsN2Jnam8wYTJla3ZrM2hxNTdjNiJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:55.610Z",
+            "lastAccessed": "2025-03-03T20:21:55.610Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.305Z",
+      "createdAt": "2025-03-03T20:21:55.305Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_wkfdNtGDkW",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "r158j45l21ggp0efj15l5k8kcl",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.435Z",
+            "lastAccessed": "2025-03-03T20:21:56.435Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiJyMTU4ajQ1bDIxZ2dwMGVmajE1bDVrOGtjbCJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.435Z",
+            "lastAccessed": "2025-03-03T20:21:56.435Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.308Z",
+      "createdAt": "2025-03-03T20:21:55.308Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Xw5wqnhfNB",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "7pr1lg8vgpn9cvark94acjkq7a",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.117Z",
+            "lastAccessed": "2025-03-03T20:21:56.117Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiI3cHIxbGc4dmdwbjljdmFyazk0YWNqa3E3YSJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.117Z",
+            "lastAccessed": "2025-03-03T20:21:56.117Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.311Z",
+      "createdAt": "2025-03-03T20:21:55.311Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_K8lFE0juTV",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "hr1hftj0jaee5lt2s1v0stoho4",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.107Z",
+            "lastAccessed": "2025-03-03T20:21:56.107Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiJocjFoZnRqMGphZWU1bHQyczF2MHN0b2hvNCJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.107Z",
+            "lastAccessed": "2025-03-03T20:21:56.107Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.314Z",
+      "createdAt": "2025-03-03T20:21:55.314Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_kiLUEi3o3k",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "1snkdbts1bkfp69m70vscsv1pf",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.102Z",
+            "lastAccessed": "2025-03-03T20:21:56.102Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiIxc25rZGJ0czFia2ZwNjltNzB2c2NzdjFwZiJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.103Z",
+            "lastAccessed": "2025-03-03T20:21:56.103Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.317Z",
+      "createdAt": "2025-03-03T20:21:55.317Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2DY7UWNlBD",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "7dgf3r0s9mfsic1upnpr3bj3i6",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.395Z",
+            "lastAccessed": "2025-03-03T20:21:56.395Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiI3ZGdmM3IwczltZnNpYzF1cG5wcjNiajNpNiJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.395Z",
+            "lastAccessed": "2025-03-03T20:21:56.395Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.321Z",
+      "createdAt": "2025-03-03T20:21:55.321Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_hRVMakvOkV",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "a2ebuob1gi421t2alqgic3qio6",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.186Z",
+            "lastAccessed": "2025-03-03T20:21:56.186Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiJhMmVidW9iMWdpNDIxdDJhbHFnaWMzcWlvNiJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.186Z",
+            "lastAccessed": "2025-03-03T20:21:56.186Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.325Z",
+      "createdAt": "2025-03-03T20:21:55.325Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_qsZG4mnN0B",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "bom1dccd3idjvq98aerl67jo55",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.676Z",
+            "lastAccessed": "2025-03-03T20:21:57.676Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJib20xZGNjZDNpZGp2cTk4YWVybDY3am81NSJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.676Z",
+            "lastAccessed": "2025-03-03T20:21:57.676Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.329Z",
+      "createdAt": "2025-03-03T20:21:55.329Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_dSe7Qdwb21",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "kg2kkduu2d9gbed11s3bh2cgfn",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.656Z",
+            "lastAccessed": "2025-03-03T20:21:57.656Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJrZzJra2R1dTJkOWdiZWQxMXMzYmgyY2dmbiJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.656Z",
+            "lastAccessed": "2025-03-03T20:21:57.656Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.335Z",
+      "createdAt": "2025-03-03T20:21:55.335Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_NklFDzmqYa",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "39gs6tr53d2l4fj8s5ljcs6eie",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.680Z",
+            "lastAccessed": "2025-03-03T20:21:57.680Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiIzOWdzNnRyNTNkMmw0Zmo4czVsamNzNmVpZSJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.680Z",
+            "lastAccessed": "2025-03-03T20:21:57.680Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.339Z",
+      "createdAt": "2025-03-03T20:21:55.339Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_q6KKnpnA09",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "smmqami92d51sndguesmgg6ie2",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.094Z",
+            "lastAccessed": "2025-03-03T20:21:56.094Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIxOjU5Iiwidmlld3MiOjEsInNlc3Npb24iOiJzbW1xYW1pOTJkNTFzbmRndWVzbWdnNmllMiJ9",
+            "expires": "2026-03-03T20:21:59.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.094Z",
+            "lastAccessed": "2025-03-03T20:21:56.094Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:55.626Z",
+      "createdAt": "2025-03-03T20:21:55.626Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_BlVRlVNxM0",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "rvabvk8890p9fooglf83bmv1dh",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.487Z",
+            "lastAccessed": "2025-03-03T20:21:56.487Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJydmFidms4ODkwcDlmb29nbGY4M2JtdjFkaCJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.487Z",
+            "lastAccessed": "2025-03-03T20:21:56.487Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.141Z",
+      "createdAt": "2025-03-03T20:21:56.141Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_mSK8uSDb58",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "rc4vc4mlkqntifmc69jjkcu1en",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.494Z",
+            "lastAccessed": "2025-03-03T20:21:56.494Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJyYzR2YzRtbGtxbnRpZm1jNjlqamtjdTFlbiJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.494Z",
+            "lastAccessed": "2025-03-03T20:21:56.494Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.143Z",
+      "createdAt": "2025-03-03T20:21:56.143Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_WQksPrBJ2u",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "ktclbcceg2jo12mnibhitnsems",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.484Z",
+            "lastAccessed": "2025-03-03T20:21:56.484Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJrdGNsYmNjZWcyam8xMm1uaWJoaXRuc2VtcyJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.484Z",
+            "lastAccessed": "2025-03-03T20:21:56.484Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.146Z",
+      "createdAt": "2025-03-03T20:21:56.146Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ORfCjH6Uya",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "oq6qejecg0i1j6p0es3mbe5qb4",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.480Z",
+            "lastAccessed": "2025-03-03T20:21:56.480Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJvcTZxZWplY2cwaTFqNnAwZXMzbWJlNXFiNCJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.480Z",
+            "lastAccessed": "2025-03-03T20:21:56.480Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.157Z",
+      "createdAt": "2025-03-03T20:21:56.157Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_3sT2hUpDAa",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "ct7fmm9l8gcn15sdlsop4v3m6l",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.625Z",
+            "lastAccessed": "2025-03-03T20:21:57.625Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJjdDdmbW05bDhnY24xNXNkbHNvcDR2M202bCJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.625Z",
+            "lastAccessed": "2025-03-03T20:21:57.625Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.205Z",
+      "createdAt": "2025-03-03T20:21:56.205Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ZnPTheIkQA",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "gujvcjg4h32tt73h2t0g31a36e",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.843Z",
+            "lastAccessed": "2025-03-03T20:21:56.843Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJndWp2Y2pnNGgzMnR0NzNoMnQwZzMxYTM2ZSJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.843Z",
+            "lastAccessed": "2025-03-03T20:21:56.843Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.401Z",
+      "createdAt": "2025-03-03T20:21:56.401Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_HDlVbhHYzB",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "g6p2i5bnqu5i4ais2qd0cgf7ha",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.899Z",
+            "lastAccessed": "2025-03-03T20:21:56.899Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJnNnAyaTVibnF1NWk0YWlzMnFkMGNnZjdoYSJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.899Z",
+            "lastAccessed": "2025-03-03T20:21:56.899Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.443Z",
+      "createdAt": "2025-03-03T20:21:56.443Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_gGcbKupf7P",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "hhbgiothtkinpnb7hkd7uv7nlj",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.999Z",
+            "lastAccessed": "2025-03-03T20:21:56.999Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJoaGJnaW90aHRraW5wbmI3aGtkN3V2N25saiJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.999Z",
+            "lastAccessed": "2025-03-03T20:21:56.999Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.498Z",
+      "createdAt": "2025-03-03T20:21:56.498Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_TYdcobQh2e",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "ho8k1ar76spmlssfvm53s51991",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.723Z",
+            "lastAccessed": "2025-03-03T20:21:57.723Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJobzhrMWFyNzZzcG1sc3Nmdm01M3M1MTk5MSJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.723Z",
+            "lastAccessed": "2025-03-03T20:21:57.723Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.501Z",
+      "createdAt": "2025-03-03T20:21:56.501Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_GmNanb3hon",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "51emijhtc38rdbpapn212nlkgl",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.994Z",
+            "lastAccessed": "2025-03-03T20:21:56.994Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiI1MWVtaWpodGMzOHJkYnBhcG4yMTJubGtnbCJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.994Z",
+            "lastAccessed": "2025-03-03T20:21:56.994Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.503Z",
+      "createdAt": "2025-03-03T20:21:56.503Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_iS2v0rQ7rN",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "e9t8e0q91qoo60llj9r7tsvjm6",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.990Z",
+            "lastAccessed": "2025-03-03T20:21:56.990Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAwIiwidmlld3MiOjEsInNlc3Npb24iOiJlOXQ4ZTBxOTFxb282MGxsajlyN3RzdmptNiJ9",
+            "expires": "2026-03-03T20:22:00.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:56.990Z",
+            "lastAccessed": "2025-03-03T20:21:56.990Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.513Z",
+      "createdAt": "2025-03-03T20:21:56.513Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ZGLRMvgC8a",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "nduhp5i7ebhaj8opdir9v1pk67",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.529Z",
+            "lastAccessed": "2025-03-03T20:21:57.529Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJuZHVocDVpN2ViaGFqOG9wZGlyOXYxcGs2NyJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.529Z",
+            "lastAccessed": "2025-03-03T20:21:57.529Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.852Z",
+      "createdAt": "2025-03-03T20:21:56.852Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_dYqi5v84Iy",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "ur2irumtcqsuk9g5q5di2h29bv",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.498Z",
+            "lastAccessed": "2025-03-03T20:21:57.498Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJ1cjJpcnVtdGNxc3VrOWc1cTVkaTJoMjlidiJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.498Z",
+            "lastAccessed": "2025-03-03T20:21:57.498Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:56.918Z",
+      "createdAt": "2025-03-03T20:21:56.918Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_yCLRanidwO",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "vlem8tcj9vqt2peh6idmb13fed",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.527Z",
+            "lastAccessed": "2025-03-03T20:21:57.527Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJ2bGVtOHRjajl2cXQycGVoNmlkbWIxM2ZlZCJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.527Z",
+            "lastAccessed": "2025-03-03T20:21:57.527Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.017Z",
+      "createdAt": "2025-03-03T20:21:57.017Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Ue7d2r6Qxb",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "tbic1v3rhppajm3ev3f825dils",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.504Z",
+            "lastAccessed": "2025-03-03T20:21:57.504Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJ0YmljMXYzcmhwcGFqbTNldjNmODI1ZGlscyJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.504Z",
+            "lastAccessed": "2025-03-03T20:21:57.504Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.018Z",
+      "createdAt": "2025-03-03T20:21:57.018Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_y4gbaOuQIe",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "3gd4h1eh9vljgfj63u97tq2tsn",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.480Z",
+            "lastAccessed": "2025-03-03T20:21:57.480Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiIzZ2Q0aDFlaDl2bGpnZmo2M3U5N3RxMnRzbiJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:57.480Z",
+            "lastAccessed": "2025-03-03T20:21:57.480Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.020Z",
+      "createdAt": "2025-03-03T20:21:57.020Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2p79qtH9Hj",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "scpfbm8eghrtbmq3m9p6ol8qkc",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.125Z",
+            "lastAccessed": "2025-03-03T20:21:58.125Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJzY3BmYm04ZWdocnRibXEzbTlwNm9sOHFrYyJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.125Z",
+            "lastAccessed": "2025-03-03T20:21:58.125Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.489Z",
+      "createdAt": "2025-03-03T20:21:57.489Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_wlcr4fEJPG",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "ktjd8i7oftpm7l864arnpqnd05",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.110Z",
+            "lastAccessed": "2025-03-03T20:21:58.110Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJrdGpkOGk3b2Z0cG03bDg2NGFybnBxbmQwNSJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.110Z",
+            "lastAccessed": "2025-03-03T20:21:58.110Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.540Z",
+      "createdAt": "2025-03-03T20:21:57.540Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_BHFOzWOakg",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "n4is8f2c6jjct9pb9cn1t2qr9t",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.245Z",
+            "lastAccessed": "2025-03-03T20:21:58.245Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJuNGlzOGYyYzZqamN0OXBiOWNuMXQycXI5dCJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.245Z",
+            "lastAccessed": "2025-03-03T20:21:58.245Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.542Z",
+      "createdAt": "2025-03-03T20:21:57.542Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_GA5UQuUl0F",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "o9nbi0s3i1inin9251b5jp6vsg",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.114Z",
+            "lastAccessed": "2025-03-03T20:21:58.114Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJvOW5iaTBzM2kxaW5pbjkyNTFiNWpwNnZzZyJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.114Z",
+            "lastAccessed": "2025-03-03T20:21:58.114Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.542Z",
+      "createdAt": "2025-03-03T20:21:57.542Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_f52YzSu9KQ",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "i9htnuhka12fr044a7ijr5hqg0",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.118Z",
+            "lastAccessed": "2025-03-03T20:21:58.118Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJpOWh0bnVoa2ExMmZyMDQ0YTdpanI1aHFnMCJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.119Z",
+            "lastAccessed": "2025-03-03T20:21:58.119Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.543Z",
+      "createdAt": "2025-03-03T20:21:57.543Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_DYZeKllo3M",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "4v91f8ao02pkps55ggbrjfu699",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.222Z",
+            "lastAccessed": "2025-03-03T20:21:58.222Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiI0djkxZjhhbzAycGtwczU1Z2dicmpmdTY5OSJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.222Z",
+            "lastAccessed": "2025-03-03T20:21:58.222Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.630Z",
+      "createdAt": "2025-03-03T20:21:57.630Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_u2fiPtgQ00",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "h7sejp85m02jlc6901ebv233gj",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.242Z",
+            "lastAccessed": "2025-03-03T20:21:58.242Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJoN3NlanA4NW0wMmpsYzY5MDFlYnYyMzNnaiJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.242Z",
+            "lastAccessed": "2025-03-03T20:21:58.242Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.671Z",
+      "createdAt": "2025-03-03T20:21:57.671Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2T0CU1d7uM",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "re2orort9m46kncdud8an8nt38",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.239Z",
+            "lastAccessed": "2025-03-03T20:21:58.239Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiJyZTJvcm9ydDltNDZrbmNkdWQ4YW44bnQzOCJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.239Z",
+            "lastAccessed": "2025-03-03T20:21:58.239Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.695Z",
+      "createdAt": "2025-03-03T20:21:57.695Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_NDRSH1YxZA",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "5n85jhsc47gel84ths1cfrv5mm",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.244Z",
+            "lastAccessed": "2025-03-03T20:21:58.244Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAxIiwidmlld3MiOjEsInNlc3Npb24iOiI1bjg1amhzYzQ3Z2VsODR0aHMxY2ZydjVtbSJ9",
+            "expires": "2026-03-03T20:22:01.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.244Z",
+            "lastAccessed": "2025-03-03T20:21:58.244Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.696Z",
+      "createdAt": "2025-03-03T20:21:57.696Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_wDfDRqozz6",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "rvbbvjljb3cmpjbsagk5lfj443",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.308Z",
+            "lastAccessed": "2025-03-03T20:21:59.308Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJydmJidmpsamIzY21wamJzYWdrNWxmajQ0MyJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.308Z",
+            "lastAccessed": "2025-03-03T20:21:59.308Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:57.732Z",
+      "createdAt": "2025-03-03T20:21:57.732Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_1wPkuWFqjL",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "pgpnoim4uqo1mspajoeu6sflq2",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.973Z",
+            "lastAccessed": "2025-03-03T20:21:58.973Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJwZ3Bub2ltNHVxbzFtc3Bham9ldTZzZmxxMiJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.973Z",
+            "lastAccessed": "2025-03-03T20:21:58.973Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.248Z",
+      "createdAt": "2025-03-03T20:21:58.248Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Q8hgXO86Df",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "f7b6qp2bsfig89et0qtk8s9uqg",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.834Z",
+            "lastAccessed": "2025-03-03T20:21:58.834Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJmN2I2cXAyYnNmaWc4OWV0MHF0azhzOXVxZyJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.834Z",
+            "lastAccessed": "2025-03-03T20:21:58.834Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.249Z",
+      "createdAt": "2025-03-03T20:21:58.249Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_d3X3arHikN",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "u63d7rg45hpum0hpk7lemohs5g",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.929Z",
+            "lastAccessed": "2025-03-03T20:21:58.929Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJ1NjNkN3JnNDVocHVtMGhwazdsZW1vaHM1ZyJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.929Z",
+            "lastAccessed": "2025-03-03T20:21:58.929Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.251Z",
+      "createdAt": "2025-03-03T20:21:58.251Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_UYJnmoglc6",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "sed2lr6hjp07n20vbhqvb77lgl",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.862Z",
+            "lastAccessed": "2025-03-03T20:21:58.862Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJzZWQybHI2aGpwMDduMjB2YmhxdmI3N2xnbCJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.862Z",
+            "lastAccessed": "2025-03-03T20:21:58.862Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.255Z",
+      "createdAt": "2025-03-03T20:21:58.255Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_EWmab7ZHpt",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "f707dqd7pglv6n71qsvui8rqe3",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.883Z",
+            "lastAccessed": "2025-03-03T20:21:58.883Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJmNzA3ZHFkN3BnbHY2bjcxcXN2dWk4cnFlMyJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.883Z",
+            "lastAccessed": "2025-03-03T20:21:58.883Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.256Z",
+      "createdAt": "2025-03-03T20:21:58.256Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_BKRHR4ry0b",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "s8n73u2ocpe4tapulbncjd3foh",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.965Z",
+            "lastAccessed": "2025-03-03T20:21:58.965Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJzOG43M3Uyb2NwZTR0YXB1bGJuY2pkM2ZvaCJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.965Z",
+            "lastAccessed": "2025-03-03T20:21:58.965Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.257Z",
+      "createdAt": "2025-03-03T20:21:58.257Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_FxZbYr2xcL",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "t3hu6qv20s2vans188rjior5us",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.871Z",
+            "lastAccessed": "2025-03-03T20:21:58.871Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJ0M2h1NnF2MjBzMnZhbnMxODhyamlvcjV1cyJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.871Z",
+            "lastAccessed": "2025-03-03T20:21:58.871Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.258Z",
+      "createdAt": "2025-03-03T20:21:58.258Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_pNPjbr4pTg",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "08dm4452jhjoadq07joocv1cu0",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.928Z",
+            "lastAccessed": "2025-03-03T20:21:58.928Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiIwOGRtNDQ1Mmpoam9hZHEwN2pvb2N2MWN1MCJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.928Z",
+            "lastAccessed": "2025-03-03T20:21:58.928Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.259Z",
+      "createdAt": "2025-03-03T20:21:58.259Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Or1nYGbO3g",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "tvdff519s7dnh0ps75e3ohhk40",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.839Z",
+            "lastAccessed": "2025-03-03T20:21:58.839Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJ0dmRmZjUxOXM3ZG5oMHBzNzVlM29oaGs0MCJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:58.839Z",
+            "lastAccessed": "2025-03-03T20:21:58.839Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.271Z",
+      "createdAt": "2025-03-03T20:21:58.271Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_FN3c7mB8dY",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "ss5bjr49k0g3otqbdli0bak8or",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.397Z",
+            "lastAccessed": "2025-03-03T20:21:59.397Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJzczVianI0OWswZzNvdHFiZGxpMGJhazhvciJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.397Z",
+            "lastAccessed": "2025-03-03T20:21:59.397Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.847Z",
+      "createdAt": "2025-03-03T20:21:58.847Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_V0JLwOstOd",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "nlso92dar2sm73mhe3dhnef6lr",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.462Z",
+            "lastAccessed": "2025-03-03T20:21:59.462Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJubHNvOTJkYXIyc203M21oZTNkaG5lZjZsciJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.462Z",
+            "lastAccessed": "2025-03-03T20:21:59.462Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.852Z",
+      "createdAt": "2025-03-03T20:21:58.852Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_SgKc7oIIP0",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "4a228iavqr89aqd5nms16guipt",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.504Z",
+            "lastAccessed": "2025-03-03T20:21:59.504Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiI0YTIyOGlhdnFyODlhcWQ1bm1zMTZndWlwdCJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.504Z",
+            "lastAccessed": "2025-03-03T20:21:59.504Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.868Z",
+      "createdAt": "2025-03-03T20:21:58.868Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_uZozsauzyQ",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "te8ln55f979i1gsf1ljav706c3",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.539Z",
+            "lastAccessed": "2025-03-03T20:21:59.539Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJ0ZThsbjU1Zjk3OWkxZ3NmMWxqYXY3MDZjMyJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.539Z",
+            "lastAccessed": "2025-03-03T20:21:59.539Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.874Z",
+      "createdAt": "2025-03-03T20:21:58.874Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_6um5bTOomg",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "2ac7d24l9qbrq2msan3gkqi55q",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.542Z",
+            "lastAccessed": "2025-03-03T20:21:59.542Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiIyYWM3ZDI0bDlxYnJxMm1zYW4zZ2txaTU1cSJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.542Z",
+            "lastAccessed": "2025-03-03T20:21:59.542Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.909Z",
+      "createdAt": "2025-03-03T20:21:58.909Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_famaP3fxuP",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "fjsje64rpmc3bnub9d39r6o728",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.362Z",
+            "lastAccessed": "2025-03-03T20:21:59.362Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiJmanNqZTY0cnBtYzNibnViOWQzOXI2bzcyOCJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.362Z",
+            "lastAccessed": "2025-03-03T20:21:59.362Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.932Z",
+      "createdAt": "2025-03-03T20:21:58.932Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_pKR8C7Sxlx",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "787ol4o3hv24mh8q6jji3st62e",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.391Z",
+            "lastAccessed": "2025-03-03T20:21:59.391Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAyIiwidmlld3MiOjEsInNlc3Npb24iOiI3ODdvbDRvM2h2MjRtaDhxNmpqaTNzdDYyZSJ9",
+            "expires": "2026-03-03T20:22:02.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.391Z",
+            "lastAccessed": "2025-03-03T20:21:59.391Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.933Z",
+      "createdAt": "2025-03-03T20:21:58.933Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_KyyEagRISC",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "pq208lspn9bdl8mgsllojjueg0",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.423Z",
+            "lastAccessed": "2025-03-03T20:21:59.423Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAzIiwidmlld3MiOjEsInNlc3Npb24iOiJwcTIwOGxzcG45YmRsOG1nc2xsb2pqdWVnMCJ9",
+            "expires": "2026-03-03T20:22:03.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.423Z",
+            "lastAccessed": "2025-03-03T20:21:59.423Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.969Z",
+      "createdAt": "2025-03-03T20:21:58.969Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_KDXcNjNfg4",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "lc9bscvec97nvmin1p63ejj0jl",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.443Z",
+            "lastAccessed": "2025-03-03T20:21:59.443Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAzIiwidmlld3MiOjEsInNlc3Npb24iOiJsYzlic2N2ZWM5N252bWluMXA2M2VqajBqbCJ9",
+            "expires": "2026-03-03T20:22:03.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.443Z",
+            "lastAccessed": "2025-03-03T20:21:59.443Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:58.976Z",
+      "createdAt": "2025-03-03T20:21:58.976Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_AW0y6VEEzR",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "p7fimabjqinqk6i2q8dtoleatu",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.692Z",
+            "lastAccessed": "2025-03-03T20:21:59.692Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAzIiwidmlld3MiOjEsInNlc3Npb24iOiJwN2ZpbWFianFpbnFrNmkycThkdG9sZWF0dSJ9",
+            "expires": "2026-03-03T20:22:03.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.692Z",
+            "lastAccessed": "2025-03-03T20:21:59.692Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:59.316Z",
+      "createdAt": "2025-03-03T20:21:59.316Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_vexRHqo8Jr",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "bs36dnh2pa6qpahnrrbelbm8t4",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.804Z",
+            "lastAccessed": "2025-03-03T20:21:59.804Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAzIiwidmlld3MiOjEsInNlc3Npb24iOiJiczM2ZG5oMnBhNnFwYWhucnJiZWxibTh0NCJ9",
+            "expires": "2026-03-03T20:22:03.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.804Z",
+            "lastAccessed": "2025-03-03T20:21:59.804Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:59.370Z",
+      "createdAt": "2025-03-03T20:21:59.370Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_p7NTWUfvrq",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "d2web",
+            "value": "cdologt9vhos8uphnarsikorac",
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.920Z",
+            "lastAccessed": "2025-03-03T20:21:59.920Z"
+          },
+          {
+            "key": "popups1",
+            "value": "eyJsYXN0IjoiMDNcLzAzXC8yMDI1IDIxOjIyOjAzIiwidmlld3MiOjEsInNlc3Npb24iOiJjZG9sb2d0OXZob3M4dXBobmFyc2lrb3JhYyJ9",
+            "expires": "2026-03-03T20:22:03.000Z",
+            "maxAge": 31536000,
+            "domain": "www.olot.cat",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-03T20:21:59.920Z",
+            "lastAccessed": "2025-03-03T20:21:59.920Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-03T21:11:59.399Z",
+      "createdAt": "2025-03-03T20:21:59.399Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

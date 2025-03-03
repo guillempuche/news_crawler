@@ -1,0 +1,9 @@
+{
+	"id": "EgeaStTYIs9iXiF",
+	"json": "{\"id\":\"EgeaStTYIs9iXiF\",\"url\":\"https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=10\",\"uniqueKey\":\"https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=10\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"LIST\",\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1741033318261,
+	"retryCount": 0,
+	"uniqueKey": "https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=10",
+	"url": "https://www.olot.cat/pl217/ajuntament/comunicacio/actualitat.htm?pg=10"
+}
